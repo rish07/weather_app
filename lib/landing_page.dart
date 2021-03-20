@@ -168,7 +168,7 @@ class _LandingPageState extends State<LandingPage> {
                         Column(
                           children: [
                             Text(
-                              'Humidy',
+                              'Humidity',
                               style: GoogleFonts.lato(
                                 fontSize: 14,
                                 fontWeight: FontWeight.bold,
